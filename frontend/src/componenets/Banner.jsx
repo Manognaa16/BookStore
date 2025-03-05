@@ -40,7 +40,7 @@ function Banner() {
               Enter valid email address
             </div>
           </div>
-          <button className="btn btn-secondary ">Sign up</button>
+          <button className="btn btn-secondary ">Get Started</button>
         </div>
         <div className="w-full md:w-1/2 dark:bg-slate-900 dark:text-white">
           <img className="w-150" src={banner} alt="" />

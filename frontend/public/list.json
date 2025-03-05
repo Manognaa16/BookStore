@@ -1,0 +1,90 @@
+[
+  {
+    "nam": 1,
+    "name": "Harry Potter 1",
+    "title": "Harry Potter, an eleven-year-old orphan, discovers that he is a wizard..",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-photo/education-day-scene-fantasy-style-aesthetic_23-2151040233.jpg?t=st=1741110988~exp=1741114588~hmac=78790810e872342e43171e88f3236fbc4d0e18036cb7101f4634499a833e3627&w=900"
+  },
+  {
+    "nam": 2,
+    "name": "Red Queen",
+    "title": "Red Queen is a young adult dystopian fantasy romance novel written by American writer Victoria Aveyard.",
+    "price": 20,
+    "category": "Novel",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSVZktPWA4FT_NNrj5CcgVcu68MZNO4WJFg&s"
+  },
+  {
+    "nam": 3,
+    "name": "Circe",
+    "title": "irce is a 2018 mythic fantasy novel by American writer Madeline Miller.",
+    "price": 30,
+    "category": "free",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROua7RLPgBSYEK8PLOR95MvgEqHPe4MKtWQA&s"
+  },
+  {
+    "nam": 4,
+    "name": "The Hitchhiker’s Guide to the Galaxy ",
+    "title": "The Hitchhiker's Guide to the Galaxy is a comedy science fiction franchise created by Douglas Adams.",
+    "price": 40,
+    "category": "Comedy",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-alien-cartoon-illustration_52683-160775.jpg?t=st=1741112068~exp=1741115668~hmac=21f5f600bfb271ebeaa9e5f8c83cb919be992d5b43162dec7b40240c302e2341&w=900"
+  },
+  {
+    "nam": 5,
+    "name": "Ikigai",
+    "title": "It's the Japanese word for ‘a reason to live’ or ‘a reason to jump out of bed in the morning’.",
+    "price": 70,
+    "category": "free",
+    "image": "https://images.meesho.com/images/products/319948904/om0wb_512.webp"
+  },
+  {
+    "id": 6,
+    "name": "this will make it taste good cookbook",
+    "title": "An Eater Best Cookbook of Fall 2020 From caramelized onions to fruit preserves.",
+    "price": 70,
+    "category": "food",
+    "image": "https://www.ajc.com/resizer/v2/MFNZAAKEUZCNVGBKTL7YXT7GQY.jpg?auth=e8e106ec3b01d19e3cfed30fc8bfb25110ea7aaad442a55881842fd8b5513368&width=790&height=440&smart=true"
+  },
+  {
+    "id": 7,
+    "name": "Atomic Habits",
+    "title": "A supremely practical and useful book. James Clear distils the most fundamental information about habit formation.",
+    "price": 10,
+    "category": "Comedy",
+    "image": "https://cdn.shopify.com/s/files/1/0194/2855/files/atomic-habits_600x600.jpg?v=1624825894"
+  },
+  {
+    "id": 8,
+    "name": "the song of achilles",
+    "title": "The Song of Achilles is a 2011 novel by American writer Madeline Miller. ",
+    "price": 70,
+    "category": "Novel",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHnNUVWoNdIpvbwnXq05goE16L1Iv-Pvw3iw&s"
+  },
+  {
+    "id": 9,
+    "name": "The Secret History",
+    "title": "The Secret History is the first novel by the American author Donna Tartt, published by Alfred A.",
+    "price": 70,
+    "category": "free",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlpibW6HkpJmqFFPrpktfeP7Aiq_8R4d2ctA&s"
+  },
+  {
+    "id": 10,
+    "name": "Interview with the Vampire",
+    "title": "nterview with the Vampire is a gothic horror and vampire novel by American author Anne Rice, published in 1976.",
+    "price": 20,
+    "category": "free",
+    "image": "https://m.media-amazon.com/images/I/71x2Fid9pnL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 11,
+    "name": "To Kill a Mockingbird",
+    "title": "To Kill a Mockingbird is a 1960 novel by American author Harper Lee. ",
+    "price": 60,
+    "category": "free",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/To_Kill_a_Mockingbird_%281963_US_theatrical_poster%29.jpg/640px-To_Kill_a_Mockingbird_%281963_US_theatrical_poster%29.jpg"
+  }
+]
